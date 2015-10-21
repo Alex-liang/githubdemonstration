@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : hello.cpp
-// Author      : 
+// Author      :
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
@@ -11,5 +11,8 @@ using namespace std;
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	cout << "Commit demonstration"<<endl;
+	for(int t=0; t<10; t++){}
+
 	return 0;
 }
