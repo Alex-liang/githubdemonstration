@@ -14,6 +14,8 @@ int main() {
 	cout << "Commit demonstration"<<endl;
 	for(int t=0; t<10; t++){
 		cout<<t*t<<" <<";
+
+		cout<<"asldkjaslkdjlk";
 	}
 
 	return 0;
